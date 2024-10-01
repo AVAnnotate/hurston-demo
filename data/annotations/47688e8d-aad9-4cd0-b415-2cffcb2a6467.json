@@ -24,6 +24,10 @@
         {
           "tag": "Unknown",
           "category": "Speaker"
+        },
+        {
+          "tag": "Library of Congress",
+          "category": "Speaker"
         }
       ],
       "uuid": "d8cd8cc5-4b91-419c-8538-c55873333590"
